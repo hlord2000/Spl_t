@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 0_KeyboardParts)(type Legacy)(uri ${KIPRJMOD}/Library/Lib/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name 0_Other)(type Legacy)(uri ${KIPRJMOD}/Library/Lib/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name 0_RN4678)(type Legacy)(uri ${KIPRJMOD}/Library/Lib/RN4678-V_RM100.lib)(options "")(descr ""))
+)
